@@ -2,6 +2,9 @@
 
 # Cinematic Cameraman Plugin
 
+**Forked from:** [shibomb/whole-minecraft-cameraman](https://github.com/shibomb/whole-minecraft-cameraman)
+**Maintainer:** [@cherdakmd](https://t.me/cherdakmd) · [https://t.me/cherdakmd](https://t.me/cherdakmd)
+
 > **Fork notice (2.0.0):** this is a fork of [shibomb/whole-minecraft-cameraman](https://github.com/shibomb/whole-minecraft-cameraman) ported to **Minecraft / Paper 26.3** ("Wilderness Bound").
 >
 > - Target API: `io.papermc.paper:paper-api:26.3` (`api-version: '26.3'` in `plugin.yml`)
@@ -203,3 +206,12 @@ randomMobPerspectives:
   - DYNAMIC_FRONT
   - DYNAMIC_POV
 ```
+
+## Maintainer & Contact
+
+This fork is maintained by **cherdakmd**.
+
+- Telegram: [https://t.me/cherdakmd](https://t.me/cherdakmd)
+- Upstream (original plugin): [shibomb/whole-minecraft-cameraman](https://github.com/shibomb/whole-minecraft-cameraman)
+
+Bug reports and suggestions for this 26.3 fork are welcome via Telegram. Original plugin by [shibomb](https://github.com/shibomb), licensed under the MIT License.
